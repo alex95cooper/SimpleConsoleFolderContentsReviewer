@@ -5,9 +5,10 @@ namespace FolderContentsReviewer__version_0._2_
 {
     class Program
     {
-        private const string NumberErrorMessage = "You must enter a number!";
+        
+        private const string NumberErrorMessage = "You must enter a numberfeavervafv!";
 
-        private const string AddressErrorMessage = "Enter correct address!";
+        private const string AddressErrorMessage = "Enter correct addressSDVSVDVebvasdfvc!";
 
         public static void ShowFirstGreeting()
         {
